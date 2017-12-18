@@ -1,0 +1,103 @@
+body{
+  background-color: #262626;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  /*  text-shadow: 0 3px rgba(0, 0, 0, 0.3);*/
+
+}
+section{
+  background-color: rgba(255, 255, 255, 0.04);
+  border-radius: 10px;
+  border:2px solid #898989;
+  padding: 10px 10px 0px 10px;
+  margin-bottom: 10px;
+}
+textarea{
+  background-color: #272822;
+  width: 100%;
+  border-radius: 5px;
+  line-height: 1.5;
+  padding:5px 10px 5px 10px;
+  font-size: 18px;
+}
+
+h1{
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+  margin: 40px;
+}
+h2{
+  margin-top: 5px;
+  font-size: 35px;
+}
+p{
+  font-size: 20px;
+}
+a{
+  text-decoration: underline;
+  color: #fff;
+}
+
+table.tab {
+  border: 1px solid #DDD;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+table caption {
+  padding: 8px;
+  font-size: 0.8em;
+}
+table th {
+  font-weight: bold;
+  border-top: 1px solid #DDD;
+  background: #535353;
+  padding: 10px;
+  line-height: 1.5em;
+  border-right: 1px solid #DDD;
+  font-size: 13px;
+}
+table tr:first-child th,
+table tr:first-child td {
+  border-top: 0;
+  border-bottom: 1px solid #DDD;
+}
+table tr th:last-child,
+table tr td:last-child {
+  border-right: 0;
+}
+table td {
+  padding: 10px;
+  border-bottom: 1px solid #DDD;
+  border-right: 1px solid #DDD;
+  background: #535353;
+}
+table tr:nth-of-type(2n) td {
+  background: #646464;
+}
+table .no-auto tr:nth-of-type(2n) td {
+  background: inherit;
+}
+
+table .small{
+  display: block;
+  font-size: 0.8em;
+}
+
+textarea:focus,
+#button-code:focus{
+  outline:0px !important;
+  border-color: #c1c1c1;
+}
+
+#button-code{
+  width: 100%;
+  background-color: #5f5f5f;
+  border-radius: 5px;
+  border:1px solid #898989;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: 700;
+  text-shadow: 2px 2px #000000;
+}
