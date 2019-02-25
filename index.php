@@ -178,7 +178,7 @@ alert(wynik);</textarea>
         <div class="col-xs-12">
           <section>
             <h3 style="text-align: center;">Informacje o autorze oraz źródłach</h3>
-            <p>Autor strony: Adam Kokoszka 4x</p>
+            <p>Autor strony: Adam Kokoszka</p>
             <p>Informacje dotyczące strony zostały użyte ze stron: <br>
               <a href="http://kursjs.pl/kurs/regular.php">kursjs.pl/kurs</a> <br>
               <a href="https://www.w3schools.com/jsref/jsref_obj_regexp.asp">www.w3schools.com</a></p>
