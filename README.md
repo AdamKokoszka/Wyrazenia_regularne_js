@@ -1,2 +1,2 @@
-# wyrazenia-regularne-js
-Zadanie na aplikacje
+# Wyrażenia regularne w JavaScript
+Omówienie wyrażeń regularnych w kilku krokach z możliwością sprawdzenia swoich umiejętności.
